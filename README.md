@@ -1,6 +1,6 @@
-## LongRacional: A Java Library for Long Rational Numbers
+## LongRacional: A Java Program for Long Rational Numbers
 
-The `LongRacional` class is a Java library designed to handle long rational numbers with precision. This project showcases skills in string manipulation, arithmetic operations, and object-oriented programming.
+The `LongRacional` class is a Java Program designed to handle long rational numbers with precision. This project showcases skills in string manipulation, arithmetic operations, and object-oriented programming.
 
 ### Key Features
 
