@@ -8,7 +8,7 @@ The `LongRacional` class is a Java Program designed to handle long rational numb
 - **String Representation**: Convert rational numbers to a string format, maintaining precision and sign.
 - **Negation**: Generate the negative of a given rational number.
 - **Addition and Subtraction**: Perform arithmetic operations on rational numbers, handling carry and borrow operations across decimal and whole parts.
-- **Developed my own ParseInT method to convert String to integers when needed.  
+- **Developed** my own ParseInT method to convert String to integers when needed.  
 - **Zero Elimination**: Remove leading and trailing zeros from the whole and decimal parts for a cleaner representation.
 
 ### Learning Outcomes
